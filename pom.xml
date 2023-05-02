@@ -99,7 +99,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>11</maven.compiler.release>
-        <maven.version>3.9.1</maven.version>
+        <maven.version>3.8.6</maven.version>
         <maven.plugin.plugin.version>3.8.2</maven.plugin.plugin.version>
         <maven.project.info.reports.plugin.version>3.4.3</maven.project.info.reports.plugin.version>
         <maven.invoker.plugin.version>3.5.1</maven.invoker.plugin.version>
